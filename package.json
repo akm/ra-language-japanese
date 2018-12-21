@@ -1,0 +1,25 @@
+{
+  "name": "ra-language-japanese",
+  "version": "0.1.0",
+  "description": "Japanese messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akm/ra-language-japanese.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "translation",
+    "japanese"
+  ],
+  "author": "Takeshi Akima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akm/ra-language-japanese/issues"
+  },
+  "homepage": "https://github.com/akm/ra-language-japanese#readme"
+}
