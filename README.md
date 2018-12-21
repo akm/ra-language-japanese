@@ -14,10 +14,10 @@ npm install --save ra-language-japanese
 import japaneseMessages from 'ra-language-japanese';
 
 const messages = {
-    'cn': japaneseMessages
+    'ja': japaneseMessages
 };
 
-<Admin locale="cn" messages={messages}>
+<Admin locale="ja" messages={messages}>
   ...
 </Admin>
 ```
